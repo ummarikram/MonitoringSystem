@@ -1,10 +1,10 @@
-pip install opencv-python
-pip install numpy
-pip install cmake
-pip install dlib
-pip install face-recognition
-pip install openpyxl
-pip install imutils
-pip install smtplib
-pip install scipy
-pip install DateTime
+opencv-python
+numpy
+cmake
+dlib
+face-recognition
+openpyxl
+imutils
+smtplib
+scipy
+DateTime
