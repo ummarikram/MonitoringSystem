@@ -2,6 +2,10 @@
 
 Real-time Student Monitoring System using Computer Vision
 
+## NOTE
+
+This was made in 6 hours for a hackathon so code is not well maintained. 
+
 ## INSTRUCTIONS
 
 * Install the required packages stated in the requirements.txt file using "pip install -r requirements.txt" inside the terminal
