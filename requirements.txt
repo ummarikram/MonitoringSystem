@@ -1,10 +1,11 @@
 opencv-python
 numpy
-cmake
+CMAKE
 dlib
-face-recognition
+face_recognition
 openpyxl
 imutils
-smtplib
+secure-smtplib
 scipy
 DateTime
+
