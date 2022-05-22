@@ -1,10 +1,6 @@
-# Student Monitoring System
+# Real-time Monitoring System
 
-Real-time Student Monitoring System using Computer Vision
-
-## NOTE
-
-This was made in 6 hours for a hackathon so code is not well maintained. 
+Real-time human monitoring system using Computer Vision (OpenCV)
 
 ## INSTRUCTIONS
 
@@ -15,7 +11,7 @@ This was made in 6 hours for a hackathon so code is not well maintained.
 ## SCREENSHOTS
 
 ### ACTIVE
-![Image of Active](https://github.com/ummarikram/StudentMonitoringSystem/blob/main/Active.PNG)
+![Image of Active](https://github.com/ummarikram/MonitoringSystem/blob/main/Active.PNG)
 
 ### SLEEPY
-![Image of Sleepy](https://github.com/ummarikram/StudentMonitoringSystem/blob/main/Sleepy.PNG)
+![Image of Sleepy](https://github.com/ummarikram/MonitoringSystem/blob/main/Sleepy.PNG)
