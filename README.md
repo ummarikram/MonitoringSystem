@@ -11,7 +11,7 @@ Real-time human monitoring system using Computer Vision (OpenCV)
 ## SCREENSHOTS
 
 ### ACTIVE
-![Image of Active](https://github.com/ummarikram/MonitoringSystem/blob/main/Active.PNG)
+![Image of Active](https://raw.githubusercontent.com/ummarikram/MonitoringSystem/main/Active.PNG)
 
 ### SLEEPY
-![Image of Sleepy](https://github.com/ummarikram/MonitoringSystem/blob/main/Sleepy.PNG)
+![Image of Sleepy](https://raw.githubusercontent.com/ummarikram/MonitoringSystem/main/Sleepy.PNG)
